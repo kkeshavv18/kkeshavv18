@@ -1,10 +1,10 @@
 
 
 ### Hey there 👋 I am Keshav Kattel.
-A Full Full Stack Web Developer.
+A Frontend Web Developer.
 
 # 💫 About Me:
-🔭 I’m currently working on my college final year project.<br>🌱 I’m currently learning more about MERN Stack.<br>👯 I’m looking to collaborate on Web development.<br>💬 Ask me about Javascript or any other tech-related stuff.<br>📫 How to reach me: Check my social links below.<br>⚡ Fun fact: If I had to eat one type of food for the rest of my life, it would be potato.
+🌱 I’m currently learning more about React Js.<br>👯 I’m looking to collaborate on Web development.<br>💬 Ask me about Javascript or any other tech-related stuff.<br>📫 How to reach me: Check my social links below.<br>⚡ Fun fact: If I had to eat one type of food for the rest of my life, it would be potato.
 
 
 ## 🌐 Socials:
