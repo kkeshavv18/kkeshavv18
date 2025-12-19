@@ -56,14 +56,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kkeshavv18&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</p>
-
----
-
 ## ✍️ Random Dev Quote
 
 <p align="center">
